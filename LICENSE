@@ -19,3 +19,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## License and Attribution
+
+This repository is licensed under the MIT License for original code, notes, and documentation created by Kelly Hassett.
+
+This project is a personal learning reimplementation inspired by Andrej Karpathy’s *Neural Networks: Zero to Hero* series and the accompanying `makemore` project.
+
+Original project: https://github.com/karpathy/makemore
+
+Any concepts, structure, or code patterns adapted from the original `makemore` project remain subject to the original project’s MIT License. This repository is intended for educational and portfolio purposes.
